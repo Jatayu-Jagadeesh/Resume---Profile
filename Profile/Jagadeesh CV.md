@@ -1,4 +1,4 @@
-# Jagadeeswara chandra bose.
+#Jagadeeswara chandra bose.
 
 ### Bachelor of Technology Electrical and Electronics Engineering |
 ### 3 years Diploma in  Electrical and Electronics Engineering |
@@ -17,13 +17,13 @@ Looking for a challenging and responsible opportunity, explore strengths and pot
 
 Experience
 -
-•	Currently undergoing hands-on technical training program – IOT (Internet of Things)
+•	Currently undergoing hands-on technical training program – IOT (Internet of Things) |
 •	This course is Government of India certified program, aligned with Skill India / NSDC under Electronics Sector Skill Council of India
 [Emertxe Information Technologies - Bangalore.](https://www.emertxe.com/)
 (IOT) Internet of Things - 6 Months Internship
 September. 2022 - March. 2023 (expected)
 
-Modules - Linux systems.
+Modules - Linux systems.|
 	        Advanced / Embedded C Programming.
   	      Micro – controller programming using Arduino platform.
 	        Building IOT Applications using Rasberry pi.
